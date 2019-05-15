@@ -51,7 +51,7 @@ Tout le monde a des irritants et une idée pour le résoudre: on peut partager c
 
 
 # Et après ?
-Proposer la plate-forme pour les entreprises qui souhaitent mettre en oeuvre
+Proposer la plate-forme pour les entreprises qui souhaitent mettre en oeuvre un solution en mode Saas
 
 # Définition
 ## l'idéation ?
