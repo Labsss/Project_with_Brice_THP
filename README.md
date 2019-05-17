@@ -5,7 +5,7 @@ Dans le processus d'innovation tel qu'il existe, il y a grosso modo 4 étapes da
 1. Proposer et rechercher des idées qui répondent à un irritant ou problème
 2. Analyser la proposition pour voir si cela est faisable
 3. Faire un protype pour voir les premiers retours clients
-4. Développer et généralisr
+4. Développer et généraliser
 
 # Description
 
